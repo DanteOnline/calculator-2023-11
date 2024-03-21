@@ -1,6 +1,6 @@
 def maximum(a, b):
     """
     Max function
-    Between a and b
+    Between a and a
     """
     return max(a, b)
